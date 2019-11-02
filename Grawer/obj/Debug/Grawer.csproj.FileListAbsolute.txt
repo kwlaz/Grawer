@@ -1,0 +1,79 @@
+c:\users\krzysiek\source\repos\Grawer\Grawer\bin\Debug\Grawer.exe.config
+c:\users\krzysiek\source\repos\Grawer\Grawer\bin\Debug\Grawer.exe
+c:\users\krzysiek\source\repos\Grawer\Grawer\bin\Debug\Grawer.pdb
+c:\users\krzysiek\source\repos\Grawer\Grawer\obj\Debug\Grawer.csprojAssemblyReference.cache
+c:\users\krzysiek\source\repos\Grawer\Grawer\obj\Debug\Grawer.Form1.resources
+c:\users\krzysiek\source\repos\Grawer\Grawer\obj\Debug\Grawer.Properties.Resources.resources
+c:\users\krzysiek\source\repos\Grawer\Grawer\obj\Debug\Grawer.csproj.GenerateResource.cache
+c:\users\krzysiek\source\repos\Grawer\Grawer\obj\Debug\Grawer.csproj.CoreCompileInputs.cache
+c:\users\krzysiek\source\repos\Grawer\Grawer\obj\Debug\Grawer.exe
+c:\users\krzysiek\source\repos\Grawer\Grawer\obj\Debug\Grawer.pdb
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\bin\Debug\Grawer.exe.config
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\bin\Debug\Grawer.exe
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\bin\Debug\Grawer.pdb
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.Form1.resources
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.Properties.Resources.resources
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.exe
+C:\Users\Dell\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.pdb
+G:\VE\Grawer\Grawer\bin\Debug\Grawer.exe.config
+G:\VE\Grawer\Grawer\bin\Debug\Grawer.exe
+G:\VE\Grawer\Grawer\bin\Debug\Grawer.pdb
+G:\VE\Grawer\Grawer\obj\Debug\Grawer.csprojAssemblyReference.cache
+G:\VE\Grawer\Grawer\obj\Debug\Grawer.Form1.resources
+G:\VE\Grawer\Grawer\obj\Debug\Grawer.Properties.Resources.resources
+G:\VE\Grawer\Grawer\obj\Debug\Grawer.csproj.GenerateResource.cache
+G:\VE\Grawer\Grawer\obj\Debug\Grawer.csproj.CoreCompileInputs.cache
+G:\VE\Grawer\Grawer\obj\Debug\Grawer.exe
+G:\VE\Grawer\Grawer\obj\Debug\Grawer.pdb
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\bin\Debug\Grawer.exe.config
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\bin\Debug\Grawer.exe
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\bin\Debug\Grawer.pdb
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Parametry.resources
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Pozycjonowanie.resources
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.Properties.Resources.resources
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.csproj.GenerateResource.cache
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.exe
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.pdb
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.MainForm.resources
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.Formy.Skala.resources
+C:\Users\Krzysiek\Desktop\VE\Grawer\Grawer\obj\Debug\Grawer.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\bin\Debug\Grawer.exe.config
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\bin\Debug\Grawer.exe
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\bin\Debug\Grawer.pdb
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Formy.NazwaProfilu.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Formy.Podglad.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Formy.Skala.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Obraz.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Parametry.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Podsumowanie.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Pozycjonowanie.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.MainForm.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Properties.Resources.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.csproj.GenerateResource.cache
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.exe
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.pdb
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.Formy.Wypalanie.resources
+C:\Users\Krzysiek\Desktop\Grawer\Grawer\obj\Debug\Grawer.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\bin\Debug\Grawer.exe.config
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\bin\Debug\Grawer.exe
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\bin\Debug\Grawer.pdb
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Formy.NazwaProfilu.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Formy.Podglad.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Formy.Skala.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Formy.Wypalanie.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Obraz.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Parametry.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Podsumowanie.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Kontrolki.Pozycjonowanie.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.MainForm.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.Properties.Resources.resources
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.csproj.GenerateResource.cache
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.exe
+C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.pdb

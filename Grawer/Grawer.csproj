@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{048247C6-0559-4FB4-A8D9-A557A924D79B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Grawer</RootNamespace>
+    <AssemblyName>Grawer</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algorytmy.cs" />
+    <Compile Include="AlgPodglad.cs" />
+    <Compile Include="ArdCon.cs" />
+    <Compile Include="Formy\NazwaProfilu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formy\NazwaProfilu.Designer.cs">
+      <DependentUpon>NazwaProfilu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formy\Podglad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formy\Podglad.Designer.cs">
+      <DependentUpon>Podglad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formy\Skala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formy\Skala.Designer.cs">
+      <DependentUpon>Skala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formy\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formy\Form1.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formy\Wypalanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formy\Wypalanie.Designer.cs">
+      <DependentUpon>Wypalanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrolki\Obraz.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\Obraz.Designer.cs">
+      <DependentUpon>Obraz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrolki\Podsumowanie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\Podsumowanie.Designer.cs">
+      <DependentUpon>Podsumowanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrolki\RightArrowButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\LeftArrowButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\DownArrowButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\UpArrowButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\Parametry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\Parametry.Designer.cs">
+      <DependentUpon>Parametry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrolki\Pozycjonowanie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\Pozycjonowanie.Designer.cs">
+      <DependentUpon>Pozycjonowanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Ustawienia.cs" />
+    <EmbeddedResource Include="Formy\NazwaProfilu.resx">
+      <DependentUpon>NazwaProfilu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formy\Podglad.resx">
+      <DependentUpon>Podglad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formy\Skala.resx">
+      <DependentUpon>Skala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formy\Wypalanie.resx">
+      <DependentUpon>Wypalanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrolki\Obraz.resx">
+      <DependentUpon>Obraz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrolki\Parametry.resx">
+      <DependentUpon>Parametry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrolki\Podsumowanie.resx">
+      <DependentUpon>Podsumowanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrolki\Pozycjonowanie.resx">
+      <DependentUpon>Pozycjonowanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formy\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skaluj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kosz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nowy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obrotLewo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obrotPrawo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zebatka.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Profil\Profile.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
