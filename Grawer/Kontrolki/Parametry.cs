@@ -10,6 +10,10 @@ using System.Windows.Forms;
 using System.IO;
 using Grawer.Formy;
 
+// Pozwala na tworzenie profili oraz ich edycję. Profile zwierają spis ustawień do wypalania.
+
+
+
 namespace Grawer.Kontrolki
 {
     public partial class Parametry : UserControl

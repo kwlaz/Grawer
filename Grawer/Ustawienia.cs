@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Grawer
 {
+    //Klasa do przechowywania ustawień użytkownika
     class Ustawienia
     {
         private static int piksel_poziom=100;

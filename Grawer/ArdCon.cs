@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// Klasa do nawiązania połączenia z urządzeniem oraz przesyłania danych do urządzenia
 namespace Grawer
 {
     public class ArdCon
@@ -61,14 +62,14 @@ namespace Grawer
         }
         public void wypal(Point p)
         {
-            port.WriteLine("G01 X" + p.X*Ustawienia.Rozdzielczosc+ " Y" + p.Y*Ustawienia.Rozdzielczosc+" S"+Ustawienia.Moc+ " P"+Ustawienia.Czas_na_punkt); // Ustaw głowicę w zadanej pozycji
-            //port.WriteLine("G01 X" + p.X * Ustawienia.Rozdzielczosc + " Y" + p.Y * Ustawienia.Rozdzielczosc);
-            //port.ReadLine();
-            //port.WriteLine("M3 S" + Ustawienia.Moc); //Włącz lasera z zadaną mocą
-            //port.ReadLine();
-            //port.WriteLine("G04 P" + Ustawienia.Czas_na_punkt); //czekaj
-            //port.ReadLine();
-            //port.WriteLine("M3 S1"); //Włącz lasera z zadaną mocą
+            //port.WriteLine("G01 X" + p.X*Ustawienia.Rozdzielczosc+ " Y" + p.Y*Ustawienia.Rozdzielczosc+" S"+Ustawienia.Moc+ " P"+Ustawienia.Czas_na_punkt); // Ustaw głowicę w zadanej pozycji
+            port.WriteLine("G01 X" + p.X * Ustawienia.Rozdzielczosc + " Y" + p.Y * Ustawienia.Rozdzielczosc);
+            port.ReadLine();
+            port.WriteLine("M3 S" + Ustawienia.Moc); //Włącz lasera z zadaną mocą
+            port.ReadLine();
+            port.WriteLine("G04 P" + Ustawienia.Czas_na_punkt); //czekaj
+            port.ReadLine();
+            port.WriteLine("M3 S1"); //Włącz lasera z zadaną mocą
             port.ReadLine();
         }
         public void otworzPort()

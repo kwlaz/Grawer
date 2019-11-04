@@ -13,6 +13,8 @@ using System.Windows.Forms;
 
 namespace Grawer
 {
+    // Algorytmy dla kontrolki Podsumowanie. 
+    // Przygotwouje obraz do wypalenia na podstawie ustawień użytkownika
     class Algorytmy
 
     {
@@ -28,6 +30,8 @@ namespace Grawer
         {
 
         }
+        // Algorytm Stuckiego
+        // Po zamianie znajduje czarne punktu do wypalenia
         public List<Point> stucki(Bitmap bmap, int prog)
         {
             if (prog > 239)
@@ -121,6 +125,8 @@ namespace Grawer
 
             return punkty;
         }
+        // Algorytm Floyda-Steinberga
+        // Po zamianie znajduje czarne punktu do wypalenia
         public List<Point> floyd_Steinberg(Bitmap bmap, int prog)
         {
             List<Point> punkty = new List<Point>();

@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Grawer
 {
+    // Klasa dla kontrolki Obraz. Zawiera algorytmy do skalowania, jasności, kontrastu oraz algorytmy, które zamieniają obraz kolorowy na obraz dwubitowy.
     class AlgPodglad
     {
         private int[,] tab_bledow;
@@ -18,6 +19,8 @@ namespace Grawer
         {
 
         }
+        // Algorytm stuckiego.
+        // Zamienia obraz kolorowy na dwukolorową. 
         public Bitmap stucki(Bitmap bmap,int prog)
         {
             przesuniecie = 2;
@@ -87,7 +90,8 @@ namespace Grawer
 
             return bmap_st;
         }
-
+        // Algorytm Floyda-Steinberga.
+        // Zamienia obraz kolorowy na dwukolorową. 
         public Bitmap floyd_Steinberg(Bitmap bmap,int prog)
         {
             List<string> punkty = new List<string>();
