@@ -10,7 +10,7 @@ Oprogramowanie podzielone jest na 4 moduły:
 
 -Parametry: Pozwala użytkownikowi na wybór parametrów(moc, prędkość, czas na punkt, wntylator) oraz na tworzenie profili z paramterami.
 
-![](image/Paramtery.jpg)
+![](image/Parametery.jpg)
 
 -Połączenie: Pozwala na nawiązanie połączenia z urządzeniem oraz na jego sterowanie za pomocą konsoli i strzałek.
 
