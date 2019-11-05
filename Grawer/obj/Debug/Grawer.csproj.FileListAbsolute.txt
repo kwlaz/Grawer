@@ -80,6 +80,7 @@ C:\Users\Krzysiek\Desktop\Grawer 30.08\Grawer\Grawer\obj\Debug\Grawer.pdb
 C:\Users\Krzysiek\Source\Repos\kwlaz\Grawer\Grawer\bin\Debug\Grawer.exe.config
 C:\Users\Krzysiek\Source\Repos\kwlaz\Grawer\Grawer\bin\Debug\Grawer.exe
 C:\Users\Krzysiek\Source\Repos\kwlaz\Grawer\Grawer\bin\Debug\Grawer.pdb
+C:\Users\Krzysiek\Source\Repos\kwlaz\Grawer\Grawer\obj\Debug\Grawer.csprojAssemblyReference.cache
 C:\Users\Krzysiek\Source\Repos\kwlaz\Grawer\Grawer\obj\Debug\Grawer.Formy.NazwaProfilu.resources
 C:\Users\Krzysiek\Source\Repos\kwlaz\Grawer\Grawer\obj\Debug\Grawer.Formy.Podglad.resources
 C:\Users\Krzysiek\Source\Repos\kwlaz\Grawer\Grawer\obj\Debug\Grawer.Formy.Skala.resources
