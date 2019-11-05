@@ -1,7 +1,7 @@
 # Grawer
 Oprogramowanie do generowania g-codu punktowego dla grawera laserowego. Do generowania punktów zostały wykorzytsane algorytmy: progowe,
 stuckiego, Floyda-Steinberga
-
+![](image/obraz.jpg)
 Oprogramowanie podzielone jest na 4 moduły:
 
 -Obraz: Pozwala użytkownikowi na przygotownaie obrazu oraz wybór algorytmu do przetworzenia obrazu dla grawera(stucki, floyd-steinberg, progwy).
