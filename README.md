@@ -19,3 +19,7 @@ Oprogramowanie podzielone jest na 4 moduły:
 -Graweruj: Na podstawie wybranego zbioru punktów generuje g-code i przesyła go do urządzenia.
 
 ![](image/Graweruj.jpg)
+
+Efekt działania:
+
+![](image/wypalenie.jpg)
